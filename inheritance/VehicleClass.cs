@@ -1,14 +1,14 @@
 ﻿using System;
 namespace inheritance
 {
-    public class VehicleClass
+    public class Vehicle
     {
 		string make;
 		string color;
 		bool isRunning = false;
 		int fuelLevel;
 
-		public VehicleClass(string make, string color, int fuelLevel)
+		public Vehicle(string make, string color, int fuelLevel)
         {
 			this.make = make;
 			this.color = color;

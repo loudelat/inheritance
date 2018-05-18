@@ -1,7 +1,7 @@
 ﻿using System;
 namespace inheritance
 {
-	public class TruckClass : VehicleClass
+	public class TruckClass : Vehicle
     {
 		int flatbedLength;
 

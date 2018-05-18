@@ -1,7 +1,7 @@
 ﻿using System;
 namespace inheritance
 {
-	public class CarClass : VehicleClass
+	public class CarClass : Vehicle
     {
 		int trunkWidth;
 
