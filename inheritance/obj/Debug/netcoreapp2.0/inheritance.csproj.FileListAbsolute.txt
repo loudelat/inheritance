@@ -1,0 +1,11 @@
+/Users/loudelat/Projects/inheritance/inheritance/bin/Debug/netcoreapp2.0/inheritance.deps.json
+/Users/loudelat/Projects/inheritance/inheritance/bin/Debug/netcoreapp2.0/inheritance.runtimeconfig.json
+/Users/loudelat/Projects/inheritance/inheritance/bin/Debug/netcoreapp2.0/inheritance.runtimeconfig.dev.json
+/Users/loudelat/Projects/inheritance/inheritance/bin/Debug/netcoreapp2.0/inheritance.dll
+/Users/loudelat/Projects/inheritance/inheritance/bin/Debug/netcoreapp2.0/inheritance.pdb
+/Users/loudelat/Projects/inheritance/inheritance/obj/Debug/netcoreapp2.0/inheritance.csprojResolveAssemblyReference.cache
+/Users/loudelat/Projects/inheritance/inheritance/obj/Debug/netcoreapp2.0/inheritance.csproj.CoreCompileInputs.cache
+/Users/loudelat/Projects/inheritance/inheritance/obj/Debug/netcoreapp2.0/inheritance.AssemblyInfoInputs.cache
+/Users/loudelat/Projects/inheritance/inheritance/obj/Debug/netcoreapp2.0/inheritance.AssemblyInfo.cs
+/Users/loudelat/Projects/inheritance/inheritance/obj/Debug/netcoreapp2.0/inheritance.dll
+/Users/loudelat/Projects/inheritance/inheritance/obj/Debug/netcoreapp2.0/inheritance.pdb
