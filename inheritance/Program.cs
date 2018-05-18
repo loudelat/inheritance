@@ -13,6 +13,7 @@ namespace inheritance
 			    newCarClass.printDetails();
 
 			TruckClass newTruckClass = new TruckClass("AcmeTruck", "White", 25, 20);
+			    newTruckClass.printDetails();
        }
     }
 }
