@@ -18,7 +18,7 @@ namespace inheritance
 
         public void printDetails()
 		{
-			Console.WriteLine("The " + this.color + " " + this.make + " has a fuel level of " + this.fuelLevel + ". Is it running? " + this.isRunning);
+			Console.WriteLine("The " + this.color + " " + this.make + " has a fuel level of " + this.fuelLevel + ". Is it running out? " + this.isRunning);
 		}
     }
 }
