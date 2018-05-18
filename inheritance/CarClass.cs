@@ -1,10 +1,13 @@
 ﻿using System;
 namespace inheritance
 {
-    public class EmptyClass
+    public class CarClass
     {
-        public EmptyClass()
+		int trunkWidth;
+
+        public CarClass(string make, string color, int fuelLevel, int trunkWidth)
         {
+			this.trunkWidth = trunkWidth;
         }
     }
 }
